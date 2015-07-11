@@ -203,6 +203,7 @@ brew cask install caskroom/versions/sublime-text3 --appdir=/Applications
 brew cask install alfred --appdir=/Applications
 brew cask install lastpass --appdir=/Applications
 brew cask install evernote --appdir=/Applications
+brew cask install garmin-express --appdir=/Applications
 
 fancy_echo "finished installing brew cask packages"
 
